@@ -236,3 +236,5 @@ docker-compose up petstore
    menu of the Cloud9 environment.
 
 5. Then navigate to `/applicationPetstore/` to view the application. _note: The trailing slash is required._
+
+6. The output of the petstore container will be visible in the current terminal and `Ctrl+C` will stop the container, but we want to keep it running in the background for the following modules.  Hit `Alt+t` to open a new terminal and leave the container log running to reference later.
